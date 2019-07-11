@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="car" class="SpringTest.Car" p:maxSpeed="100" p:brand="Audi" p:price="180000"/>
+    <bean id="person" class="SpringTest.Person" p:address="wuhan" p:age="10" p:name="fanzhiqaing"
+          p:car-ref="car"
+    />
+
+
+</beans>

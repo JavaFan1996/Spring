@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+
+<!--使用bean的scope属性来配置bean的作用域
+    默认值 singleton 单例模式
+    prototype 每次创建的都是不同的对象
+
+-->
+
+    <bean id="car" class="com.atguigu.spring.scope.Car">
+        <property name="brand" value="Audi"/>
+        <property name="price" value="30000000"/>
+    </bean>
+
+
+
+</beans>

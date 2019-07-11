@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Oracle - @192.168.0.241" uuid="2da51d84-a712-4637-9a80-23fa4a0812f4">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="ORACLE" exact-version="10.2.0.1.0" exact-driver-version="11.2" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>scott</user-name>
+      <introspection-schemas>*:@,PUBLIC</introspection-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <bean id="address" class="com.atguigu.spring.beans.spl.Address">
+
+        <property name="city" value="wuhan"/>
+        <property name="street" value="guanggu"/>
+    </bean>
+
+
+    <bean id="car" class="com.atguigu.spring.beans.spl.Car">
+        <property name="brand" value="AUDI"/>
+        <property name="price" value="50000000"/>
+        <!--        使用spel引用类的静态属性-->
+        <property name="tyrePerimeter" value="#{T(java.lang.Math).PI*80}"/>
+    </bean>
+    <bean id="person" class="com.atguigu.spring.beans.spl.Person">
+        <property name="car" value="#{car}"/>
+        <property name="city" value="#{address.city}"/>
+        <property name="info" value="#{car.price > 300000? '金领':'白领'}"/>
+        <property name="name" value="Tom"/>
+
+    </bean>
+</beans>
