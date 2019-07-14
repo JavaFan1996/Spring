@@ -2,107 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dd77d0b-04ba-46e6-b9ea-20eb74e3d62a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/com.springsource.net.sf.cglib-2.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.7-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/EmployeeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBCTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JDBC/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/LoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/VlidationAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/jisuanqi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/jisuanqiImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/xml/LoggingAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/xml/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/xml/VlidationAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/xml/jisuanqi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/aop/xml/jisuanqiImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationContextAop-xml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationContextAop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/applicationContextJdbc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbcContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/AOP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/c3p0-0.9.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-aop-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-aop-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-aop-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-aspects-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-aspects-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-aspects-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-beans-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-beans-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-beans-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-build-src-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-context-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-context-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-context-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-context-support-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-context-support-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-context-support-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-core-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-core-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-core-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-expression-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-expression-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-expression-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-framework-bom-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-framework-bom-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-framework-bom-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-instrument-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-instrument-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-instrument-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-instrument-tomcat-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-instrument-tomcat-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-instrument-tomcat-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-jdbc-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-jdbc-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-jdbc-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-jms-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-jms-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-jms-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-messaging-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-messaging-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-messaging-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-orm-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-orm-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-orm-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-oxm-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-oxm-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-oxm-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-test-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-test-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-test-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-tx-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-tx-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-tx-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-web-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-web-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-web-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-webmvc-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-webmvc-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-webmvc-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-webmvc-portlet-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-webmvc-portlet-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-webmvc-portlet-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-websocket-4.0.0.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-websocket-4.0.0.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AOP/lib/spring-websocket-4.0.0.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring/com/atguigu/spring/generic/di/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring/com/atguigu/spring/generic/di/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpringTest/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpringTest/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpringTest/Person.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,7 +22,23 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @192.168.0.241" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @192.168.0.241" type="feb32156:DbDataSourceImpl" />
+        <item name="SCOTT: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @192.168.0.241" type="feb32156:DbDataSourceImpl" />
+        <item name="SCOTT: schema" type="3abd1b6a:OraImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
@@ -131,73 +47,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/applicationContextJdbc.xml">
+        <entry file="file://$PROJECT_DIR$/src/jdbcContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            <state relative-caret-position="19">
+              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JDBC/JDBCTest.java">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2da51d84-a712-4637-9a80-23fa4a0812f4/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="67">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JDBC/Employee.java">
+        <entry file="file://$PROJECT_DIR$/src/db2.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1083">
-              <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
-              <folding>
-                <element signature="e#703#704#0" expanded="true" />
-                <element signature="e#764#765#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1127#1128#0" expanded="true" />
-                <element signature="e#1174#1175#0" expanded="true" />
-                <element signature="e#1212#1213#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JDBC/EmployeeDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JDBC/Department.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-              <folding>
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="114">
+              <caret line="6" column="20" selection-end-line="6" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -227,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/atguigu/spring/beans/cyle/MyBeanPostProcessor.java" />
         <option value="$PROJECT_DIR$/src/beans-cyle.xml" />
         <option value="$PROJECT_DIR$/src/com/atguigu/spring/factory/Car.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/spring/factory/StaticCarFactory.java" />
@@ -240,7 +110,6 @@
         <option value="$PROJECT_DIR$/src/com/atguigu/spring/factoryBean/CarFactoryBean.java" />
         <option value="$PROJECT_DIR$/src/beans-beanfactory.xml" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/389b0674-3e52-4011-9349-f3e144e2275f/console.sql" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2da51d84-a712-4637-9a80-23fa4a0812f4/console.sql" />
         <option value="$PROJECT_DIR$/src/com/atguigu/spring/annotation/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/spring/annotation/repository/UserRepositoryImpl.java" />
         <option value="$PROJECT_DIR$/src/com/atguigu/spring/annotation/TestObject.java" />
@@ -278,6 +147,8 @@
         <option value="$PROJECT_DIR$/src/applicationContextJdbc.xml" />
         <option value="$PROJECT_DIR$/src/JDBC/Employee.java" />
         <option value="$PROJECT_DIR$/src/JDBC/JDBCTest.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2da51d84-a712-4637-9a80-23fa4a0812f4/console.sql" />
       </list>
     </option>
   </component>
@@ -287,7 +158,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -310,12 +181,6 @@
               <item name="Spring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Spring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -332,7 +197,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="database.console.LAST_STATE" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -473,14 +338,22 @@
       <workItem from="1562834442546" duration="1399000" />
       <workItem from="1562857123412" duration="1105000" />
       <workItem from="1562912855861" duration="10746000" />
-      <workItem from="1562978769230" duration="4716000" />
+      <workItem from="1562978769230" duration="5246000" />
+      <workItem from="1562995013586" duration="6000" />
+      <workItem from="1562996099311" duration="614000" />
+      <workItem from="1563070366538" duration="7903000" />
     </task>
+    <task id="LOCAL-00001" summary="Spring 的JDBC的实现">
+      <created>1562994570892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562994570892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JDBCTest_testQueryForObject2 - 2019.07.13 at 10h 58m 53s.xml">
-      <configuration name="JDBCTest.testQueryForObject2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="JDBCTest_testQueryForObject2 - 2019.07.13 at 10h 59m 20s.xml">
       <configuration name="JDBCTest.testQueryForObject2" configurationId="JUnit" />
     </history-entry>
@@ -508,15 +381,18 @@
     <history-entry file="JDBCTest_testNameparameterJdbcTemplate - 2019.07.13 at 11h 37m 10s.xml">
       <configuration name="JDBCTest.testNameparameterJdbcTemplate" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JDBCTest_testNameparameterJdbctemplate - 2019.07.13 at 13h 06m 54s.xml">
+      <configuration name="JDBCTest.testNameparameterJdbctemplate" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35257000" />
+    <option name="totallyTimeSpent" value="44310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2160229" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -525,7 +401,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32048193" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06987952" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,14 +413,14 @@
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Database Console" order="14" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="14" visible="true" weight="0.28674698" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Maven" order="3" weight="0.18526466" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.07010014" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.18311875" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -552,18 +428,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring 的JDBC的实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring 的JDBC的实现" />
+  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.0.0.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="47" column="20" lean-forward="true" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/spring/factoryBean/Car.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -579,13 +452,6 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/389b0674-3e52-4011-9349-f3e144e2275f/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2da51d84-a712-4637-9a80-23fa4a0812f4/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/spring/annotation/repository/UserRepositoryImpl.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -795,17 +661,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/aop/LoggingAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#declareJointPointExpression#0;class#LoggingAspect#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/aop/xml/jisuanqi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -865,32 +720,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/db2.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/atguigu/spring/factoryBean/CarFactoryBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jdbcContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-          <folding>
-            <element signature="e#746#760#0" expanded="true" />
-            <element signature="e#803#821#0" expanded="true" />
-            <element signature="e#863#880#0" expanded="true" />
-            <element signature="e#926#947#0" expanded="true" />
-            <element signature="e#993#1014#0" expanded="true" />
-            <element signature="e#1064#1086#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,13 +737,7 @@
     <entry file="file://$PROJECT_DIR$/Spring.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JDBC/DepartmentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JDBC/DepartmentDao.java" />
     <entry file="file://$PROJECT_DIR$/src/JDBC/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -948,7 +775,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JDBC/Department.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="478">
           <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding>
             <element signature="e#244#245#0" expanded="true" />
@@ -965,7 +792,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JDBC/EmployeeDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
+        <state relative-caret-position="193">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -975,11 +802,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JDBC/JDBCTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        <state relative-caret-position="390">
+          <caret line="97" selection-start-line="97" selection-end-line="98" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/aop/LoggingAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#declareJointPointExpression#0;class#LoggingAspect#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbcContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/db2.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2da51d84-a712-4637-9a80-23fa4a0812f4/schema/SCOTT/table/EMP2">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="50880567-37fe-46df-b6e6-8a213985ec29">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <column-attributes>
+            <column name="ROWID" enabled="false" position="-1" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2da51d84-a712-4637-9a80-23fa4a0812f4/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
